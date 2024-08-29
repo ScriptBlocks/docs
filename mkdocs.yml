@@ -18,6 +18,144 @@ plugins:
             Volume 2 - Using the Interface: Tome 2 - Utilisation de l'interface
             Volume 3 - Building your first app: Tome 3 – Construire votre première application
             Volume 4 - Learning Python: Tome 4 – Apprendre Python
+            Creating your first app: Créer votre première application
+            Object Management: Gestion des objets
+            The ScriptBlocks Workspace: Espace de travail ScriptBlocks
+            The Replit Shell: Le terminal Replit
+            Working with Files: Travailler avec des fichiers
+            Project Setup: Configuration du projet
+            Adding UI Elements: Ajouter des éléments d'interface utilisateur
+            Adding Logic: Ajouter la logique
+            Deploying your app: Déployer votre application
+            Python for Beginners: Python pour les débutants
+            Hello World: Bonjour tout le monde
+            Data Types: Types de données
+            Variables: Variables
+            Functions: Fonctions
+            If Statements: Instructions conditionnelles
+            Loops: Boucles
+            Lists and Tuples: Listes et tuples
+            Dictionaries: Dictionnaires
+            Sets: Ensembles
+            String Manipulation: Manipulation des chaînes
+            Input and Output: Entrée et sortie
+            Error and Exception Handling: Gestion des erreurs et des exceptions
+            Working with Files: Travailler avec des fichiers
+            List Comprehensions: Compréhensions de liste
+            Introduction to Modules: Introduction aux modules
+            Classes and Objects: Classes et objets
+            Inheritance: Héritage
+            Polymorphism: Polymorphisme
+            Encapsulation: Encapsulation
+            Introduction to Recursion: Introduction à la récursion
+            Lambda Functions: Fonctions lambda
+            Decorators: Décorateurs
+            Generators: Générateurs
+            Working with JSON: Travailler avec JSON
+            Regular Expressions: Expressions régulières
+            Working with Dates and Time: Travailler avec les dates et heures
+            Introduction to Virtual Environments: Introduction aux environnements virtuels
+            Introduction to Web Scraping: Introduction au web scraping
+            Introduction to Unit Testing: Introduction aux tests unitaires
+            Conclusion and Next Steps: Conclusion et étapes suivantes
+
+        - locale: pt
+          name: Português
+          nav_translations:
+            Introduction: Introdução
+            Volume 1 - Getting Started: Volume 1 - Primeiros Passos
+            Volume 2 - Using the Interface: Volume 2 - Usando a Interface
+            Volume 3 - Building your first app: Volume 3 - Construindo seu Primeiro Aplicativo
+            Volume 4 - Learning Python: Volume 4 - Aprendendo Python
+            Creating your first app: Criando seu primeiro aplicativo
+            Object Management: Gerenciamento de Objetos
+            The ScriptBlocks Workspace: Área de Trabalho do ScriptBlocks
+            The Replit Shell: Terminal Replit
+            Working with Files: Trabalhando com Arquivos
+            Project Setup: Configuração do Projeto
+            Adding UI Elements: Adicionando Elementos de UI
+            Adding Logic: Adicionando Lógica
+            Deploying your app: Implantando seu Aplicativo
+            Python for Beginners: Python para Iniciantes
+            Hello World: Olá Mundo
+            Data Types: Tipos de Dados
+            Variables: Variáveis
+            Functions: Funções
+            If Statements: Declarações Condicionais
+            Loops: Loops
+            Lists and Tuples: Listas e Tuplas
+            Dictionaries: Dicionários
+            Sets: Conjuntos
+            String Manipulation: Manipulação de Strings
+            Input and Output: Entrada e Saída
+            Error and Exception Handling: Tratamento de Erros e Exceções
+            Working with Files: Trabalhando com Arquivos
+            List Comprehensions: Compreensões de Lista
+            Introduction to Modules: Introdução a Módulos
+            Classes and Objects: Classes e Objetos
+            Inheritance: Herança
+            Polymorphism: Polimorfismo
+            Encapsulation: Encapsulamento
+            Introduction to Recursion: Introdução à Recursão
+            Lambda Functions: Funções Lambda
+            Decorators: Decoradores
+            Generators: Geradores
+            Working with JSON: Trabalhando com JSON
+            Regular Expressions: Expressões Regulares
+            Working with Dates and Time: Trabalhando com Datas e Horas
+            Introduction to Virtual Environments: Introdução aos Ambientes Virtuais
+            Introduction to Web Scraping: Introdução à Extração de Dados da Web
+            Introduction to Unit Testing: Introdução aos Testes Unitários
+            Conclusion and Next Steps: Conclusão e Próximos Passos
+
+        - locale: es
+          name: Español
+          nav_translations:
+            Introduction: Introducción
+            Volume 1 - Getting Started: Volumen 1 - Primeros Pasos
+            Volume 2 - Using the Interface: Volumen 2 - Usando la Interfaz
+            Volume 3 - Building your first app: Volumen 3 - Construyendo tu Primera Aplicación
+            Volume 4 - Learning Python: Volumen 4 - Aprendiendo Python
+            Creating your first app: Creando tu primera aplicación
+            Object Management: Gestión de Objetos
+            The ScriptBlocks Workspace: Espacio de Trabajo de ScriptBlocks
+            The Replit Shell: Terminal de Replit
+            Working with Files: Trabajando con Archivos
+            Project Setup: Configuración del Proyecto
+            Adding UI Elements: Añadiendo Elementos de IU
+            Adding Logic: Añadiendo Lógica
+            Deploying your app: Desplegando tu Aplicación
+            Python for Beginners: Python para Principiantes
+            Hello World: Hola Mundo
+            Data Types: Tipos de Datos
+            Variables: Variables
+            Functions: Funciones
+            If Statements: Declaraciones Condicionales
+            Loops: Bucles
+            Lists and Tuples: Listas y Tuplas
+            Dictionaries: Diccionarios
+            Sets: Conjuntos
+            String Manipulation: Manipulación de Cadenas
+            Input and Output: Entrada y Salida
+            Error and Exception Handling: Manejo de Errores y Excepciones
+            Working with Files: Trabajando con Archivos
+            List Comprehensions: Comprensiones de Listas
+            Introduction to Modules: Introducción a los Módulos
+            Classes and Objects: Clases y Objetos
+            Inheritance: Herencia
+            Polymorphism: Polimorfismo
+            Encapsulation: Encapsulación
+            Introduction to Recursion: Introducción a la Recursión
+            Lambda Functions: Funciones Lambda
+            Decorators: Decoradores
+            Generators: Generadores
+            Working with JSON: Trabajando con JSON
+            Regular Expressions: Expresiones Regulares
+            Working with Dates and Time: Trabajando con Fechas y Horas
+            Introduction to Virtual Environments: Introducción a los Entornos Virtuales
+            Introduction to Web Scraping: Introducción a la Extracción de Datos Web
+            Introduction to Unit Testing: Introducción a las Pruebas Unitarias
+            Conclusion and Next Steps: Conclusión y Próximos Pasos
 
 theme:
   name: material
@@ -95,6 +233,7 @@ nav:
     - Introduction to Web Scraping: vol4/chap29.md
     - Introduction to Unit Testing: vol4/chap30.md
     - Conclusion and Next Steps: vol4/chap31.md
+
 markdown_extensions:
   - pymdownx.highlight:
       use_pygments: true
