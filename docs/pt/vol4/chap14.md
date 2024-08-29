@@ -1,12 +1,12 @@
-# Chapter 14: Working with Files
+# Capítulo 14: Trabalhando com Arquivos
 
-Python allows you to work with files using the `open()` function.
+Python permite que você trabalhe com arquivos usando a função `open()`.
 
-## Example
+## Exemplo
 
 ```python
 with open("example.txt", "w") as file:
-    file.write("Hello, World!")
+    file.write("Olá, Mundo!")
 ```
 
-This code writes "Hello, World!" to a file named `example.txt`.
+Este código escreve "Olá, Mundo!" em um arquivo chamado `example.txt`.

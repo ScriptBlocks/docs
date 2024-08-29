@@ -1,15 +1,15 @@
-# Chapter 6: If Statements
+# Capítulo 6: Declarações If
 
-`If` statements allow your program to make decisions based on conditions.
+As declarações `If` permitem que seu programa tome decisões com base em condições.
 
-## Example
+## Exemplo
 
 ```python
-age = 18
-if age >= 18:
-    print("You are an adult.")
+idade = 18
+if idade >= 18:
+    print("Você é um adulto.")
 else:
-    print("You are not an adult.")
+    print("Você não é um adulto.")
 ```
 
-This code checks if `age` is 18 or more and prints the appropriate message.
+Este código verifica se `idade` é 18 ou mais e imprime a mensagem apropriada.

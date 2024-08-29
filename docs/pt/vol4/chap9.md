@@ -1,15 +1,15 @@
-# Chapter 9: Dictionaries
+# Capítulo 9: Dicionários
 
-Dictionaries store data in key-value pairs.
+Dicionários armazenam dados em pares de chave-valor.
 
-## Example
+## Exemplo
 
 ```python
-person = {
-    "name": "Alice",
-    "age": 30,
-    "city": "New York"
+pessoa = {
+    "nome": "Alice",
+    "idade": 30,
+    "cidade": "Nova Iorque"
 }
 ```
 
-You can access values by using their keys, like `person["name"]`.
+Você pode acessar os valores usando suas chaves, como `pessoa["nome"]`.

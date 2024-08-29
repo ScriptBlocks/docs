@@ -1,11 +1,11 @@
-# Chapter 15: List Comprehensions
+# Capítulo 15: Compreensões de Lista
 
-List comprehensions provide a concise way to create lists.
+Compreensões de lista fornecem uma maneira concisa de criar listas.
 
-## Example
+## Exemplo
 
 ```python
 squares = [x**2 for x in range(10)]
 ```
 
-This creates a list of squares from 0 to 9.
+Isso cria uma lista de quadrados de 0 a 9.

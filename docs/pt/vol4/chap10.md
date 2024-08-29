@@ -1,11 +1,11 @@
-# Chapter 10: Sets
+# Capítulo 10: Conjuntos
 
-Sets are collections of unique items.
+Conjuntos são coleções de itens únicos.
 
-## Example
+## Exemplo
 
 ```python
-numbers = {1, 2, 3, 4, 4}
+numeros = {1, 2, 3, 4, 4}
 ```
 
-This set will contain `{1, 2, 3, 4}` because sets do not allow duplicate values.
+Este conjunto conterá `{1, 2, 3, 4}` porque conjuntos não permitem valores duplicados.

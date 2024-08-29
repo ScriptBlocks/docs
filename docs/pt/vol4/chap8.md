@@ -1,17 +1,17 @@
-# Chapter 8: Lists and Tuples
+# Capítulo 8: Listas e Tuplas
 
-Lists and tuples are used to store collections of items.
+Listas e tuplas são usadas para armazenar coleções de itens.
 
-## Lists
-
-```python
-fruits = ["apple", "banana", "cherry"]
-```
-
-## Tuples
+## Listas
 
 ```python
-dimensions = (1920, 1080)
+frutas = ["maçã", "banana", "cereja"]
 ```
 
-Lists are mutable (you can change them), while tuples are immutable (you can't change them).
+## Tuplas
+
+```python
+dimensoes = (1920, 1080)
+```
+
+Listas são mutáveis (você pode alterá-las), enquanto tuplas são imutáveis (você não pode alterá-las).

@@ -1,14 +1,14 @@
-# Chapter 7: Loops
+# Capítulo 7: Loops
 
-Loops allow you to repeat a block of code multiple times.
+Loops permitem que você repita um bloco de código várias vezes.
 
-## While Loop Example
+## Exemplo de Loop While
 
 ```python
-count = 0
-while count < 5:
-    print(count)
-    count += 1
+contagem = 0
+while contagem < 5:
+    print(contagem)
+    contagem += 1
 ```
 
-This `while` loop prints numbers from 0 to 4.
+Este loop `while` imprime números de 0 a 4.

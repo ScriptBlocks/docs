@@ -1,12 +1,12 @@
-# Chapter 12: Input and Output
+# Capítulo 12: Entrada e Saída
 
-Python provides ways to interact with users through input and output.
+Python fornece maneiras de interagir com os usuários através de entrada e saída.
 
-## Example
+## Exemplo
 
 ```python
-name = input("Enter your name: ")
-print(f"Hello, {name}!")
+nome = input("Digite seu nome: ")
+print(f"Olá, {nome}!")
 ```
 
-This code asks for the user's name and then greets them.
+Este código pede o nome do usuário e depois o saúda.

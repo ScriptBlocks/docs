@@ -1,10 +1,10 @@
-# Chapter 11: String Manipulation
+# Capítulo 11: Manipulação de Strings
 
-Strings can be manipulated in various ways, such as slicing, concatenation, and formatting.
+Strings podem ser manipuladas de várias maneiras, como fatiamento, concatenação e formatação.
 
-## Example
+## Exemplo
 
 ```python
-name = "Alice"
-print(name.upper())  # Outputs: ALICE
+nome = "Alice"
+print(nome.upper())  # Saída: ALICE
 ```
