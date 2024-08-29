@@ -1,3 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap1/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap1/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap1/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap10/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap10/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap10/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap11/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap11/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap11/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap12/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap12/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap12/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap13/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap13/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap13/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap14/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap14/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap14/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap2/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap2/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap2/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap3/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap3/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap3/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap4/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap4/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap4/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap5/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap5/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap5/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap6/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap6/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap6/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap7/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap7/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap7/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap8/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap8/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap8/"/>
+    </url>
+    <url>
+        <loc>Nonevol4/chap9/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap9/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap9/"/>
+    </url>
+    <url>
+        <loc>Nonefr/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap1/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap1/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap10/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap10/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap11/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap11/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap11/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap12/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap12/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap12/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap13/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap13/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap13/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap14/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap14/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap14/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap2/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap2/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap3/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap3/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap4/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap4/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap4/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap5/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap5/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap5/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap6/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap6/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap6/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap7/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap7/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap7/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap8/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap8/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap8/"/>
+    </url>
+    <url>
+        <loc>Nonefr/vol4/chap9/</loc>
+        <lastmod>2024-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/vol4/chap9/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevol4/chap9/"/>
+    </url>
 </urlset>
