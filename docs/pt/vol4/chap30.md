@@ -1,8 +1,8 @@
-# Chapter 30: Introduction to Unit Testing
+# Capítulo 30: Introdução aos Testes Unitários
 
-Unit testing ensures that individual parts of your code work as expected. Python's `unittest` module is commonly used for this.
+Os testes unitários garantem que partes individuais do seu código funcionem como esperado. O módulo `unittest` do Python é comumente usado para isso.
 
-## Example
+## Exemplo
 
 ```python
 import unittest

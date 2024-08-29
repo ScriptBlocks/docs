@@ -1,12 +1,12 @@
-# Chapter 27: Working with Dates and Time
+# Capítulo 27: Trabalhando com Datas e Horas
 
-Python's `datetime` module allows you to work with dates and times.
+O módulo `datetime` do Python permite trabalhar com datas e horas.
 
-## Example
+## Exemplo
 
 ```python
 from datetime import datetime
 
 now = datetime.now()
-print(now)  # Outputs the current date and time
+print(now)  # Exibe a data e hora atuais
 ```

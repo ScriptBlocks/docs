@@ -1,10 +1,10 @@
-# Chapter 22: Lambda Functions
+# Capítulo 22: Funções Lambda
 
-Lambda functions are anonymous functions that are defined using the `lambda` keyword.
+As funções lambda são funções anônimas que são definidas usando a palavra-chave `lambda`.
 
-## Example
+## Exemplo
 
 ```python
 add = lambda x, y: x + y
-print(add(2, 3))  # Outputs: 5
+print(add(2, 3))  # Saída: 5
 ```

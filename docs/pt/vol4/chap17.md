@@ -1,8 +1,8 @@
-# Chapter 17: Classes and Objects
+# Capítulo 17: Classes e Objetos
 
-Python supports object-oriented programming with classes and objects.
+Python suporta programação orientada a objetos com classes e objetos.
 
-## Example
+## Exemplo
 
 ```python
 class Dog:
@@ -10,8 +10,8 @@ class Dog:
         self.name = name
 
     def bark(self):
-        print(f"{self.name} says woof!")
+        print(f"{self.name} diz woof!")
 
-my_dog = Dog("Rex")
-my_dog.bark()  # Outputs: Rex says woof!
+meu_cachorro = Dog("Rex")
+meu_cachorro.bark()  # Saída: Rex diz woof!
 ```

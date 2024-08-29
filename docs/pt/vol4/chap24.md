@@ -1,13 +1,13 @@
-# Chapter 24: Generators
+# Capítulo 24: Geradores
 
-Generators are functions that return an iterable set of items, one at a time, using `yield`.
+Os geradores são funções que retornam um conjunto iterável de itens, um de cada vez, utilizando `yield`.
 
-## Example
+## Exemplo
 
 ```python
 def count_up_to(max):
     count = 1
-    while count <= max:
+    enquanto count <= max:
         yield count
         count += 1
 

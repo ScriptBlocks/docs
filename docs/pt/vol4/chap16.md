@@ -1,12 +1,12 @@
-# Chapter 16: Introduction to Modules
+# Capítulo 16: Introdução a Módulos
 
-Modules are files containing Python code that can be imported and used in other scripts.
+Módulos são arquivos que contêm código Python que podem ser importados e usados em outros scripts.
 
-## Example
+## Exemplo
 
 ```python
 import math
-print(math.sqrt(16))  # Outputs: 4.0
+print(math.sqrt(16))  # Saída: 4.0
 ```
 
-The `math` module provides mathematical functions.
+O módulo `math` fornece funções matemáticas.

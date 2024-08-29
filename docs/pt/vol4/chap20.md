@@ -1,17 +1,17 @@
-# Chapter 20: Encapsulation
+# Capítulo 20: Encapsulamento
 
-Encapsulation restricts access to certain components of an object and is implemented using private variables and methods.
+O encapsulamento restringe o acesso a certos componentes de um objeto e é implementado usando variáveis e métodos privados.
 
-## Example
+## Exemplo
 
 ```python
 class Robot:
     def __init__(self, name):
-        self.__name = name  # Private variable
+        self.__name = name  # Variável privada
 
     def get_name(self):
         return self.__name
 
 robot = Robot("R2-D2")
-print(robot.get_name())  # Outputs: R2-D2
+print(robot.get_name())  # Saída: R2-D2
 ```

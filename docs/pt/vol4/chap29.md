@@ -1,8 +1,8 @@
-# Chapter 29: Introduction to Web Scraping
+# Capítulo 29: Introdução ao Web Scraping
 
-Web scraping involves extracting data from websites. Python's `requests` and `BeautifulSoup` libraries are commonly used for this.
+Web scraping envolve a extração de dados de sites. As bibliotecas `requests` e `BeautifulSoup` do Python são comumente usadas para isso.
 
-## Example
+## Exemplo
 
 ```python
 import requests
@@ -11,5 +11,5 @@ from bs4 import BeautifulSoup
 response = requests.get('http://example.com')
 soup = BeautifulSoup(response.text, 'html.parser')
 
-print(soup.title.text)  # Outputs the title of the page
+print(soup.title.text)  # Exibe o título da página
 ```

@@ -1,16 +1,16 @@
-# Chapter 26: Regular Expressions
+# Capítulo 26: Expressões Regulares
 
-Regular expressions (regex) are patterns used to match strings in text. Python provides the `re` module for regex operations.
+Expressões regulares (regex) são padrões usados para corresponder strings em texto. O Python fornece o módulo `re` para operações com regex.
 
-## Example
+## Exemplo
 
 ```python
 import re
 
 pattern = r"\d+"
-text = "The year is 2024"
+text = "O ano é 2024"
 match = re.search(pattern, text)
 
 if match:
-    print(f"Found a number: {match.group()}")  # Outputs: Found a number: 2024
+    print(f"Número encontrado: {match.group()}")  # Exibe: Número encontrado: 2024
 ```

@@ -1,18 +1,18 @@
-# Chapter 18: Inheritance
+# Capítulo 18: Herança
 
-Inheritance allows a class to inherit attributes and methods from another class.
+A herança permite que uma classe herde atributos e métodos de outra classe.
 
-## Example
+## Exemplo
 
 ```python
 class Animal:
     def speak(self):
-        print("Animal sound")
+        print("Som de animal")
 
 class Dog(Animal):
     def speak(self):
-        print("Woof!")
+        print("Au Au!")
 
-my_dog = Dog()
-my_dog.speak()  # Outputs: Woof!
+meu_cachorro = Dog()
+meu_cachorro.speak()  # Saída: Au Au!
 ```

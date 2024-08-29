@@ -1,17 +1,17 @@
-# Chapter 25: Working with JSON
+# Capítulo 25: Trabalhando com JSON
 
-JSON (JavaScript Object Notation) is a common data format used for APIs. Python can parse and generate JSON using the `json` module.
+JSON (JavaScript Object Notation) é um formato de dados comum usado para APIs. O Python pode analisar e gerar JSON usando o módulo `json`.
 
-## Example
+## Exemplo
 
 ```python
 import json
 
 data = {"name": "Alice", "age": 30, "city": "New York"}
 json_data = json.dumps(data)
-print(json_data)  # Outputs a JSON string
+print(json_data)  # Exibe uma string JSON
 
-# Parse JSON back to a dictionary
+# Analisar o JSON de volta para um dicionário
 parsed_data = json.loads(json_data)
-print(parsed_data["name"])  # Outputs: Alice
+print(parsed_data["name"])  # Exibe: Alice
 ```

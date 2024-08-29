@@ -1,20 +1,20 @@
-# Chapter 23: Decorators
+# Capítulo 23: Decoradores
 
-Decorators are functions that modify the behavior of another function.
+Os decoradores são funções que modificam o comportamento de outra função.
 
-## Example
+## Exemplo
 
 ```python
 def my_decorator(func):
     def wrapper():
-        print("Something is happening before the function is called.")
+        print("Algo está acontecendo antes da função ser chamada.")
         func()
-        print("Something is happening after the function is called.")
+        print("Algo está acontecendo depois da função ser chamada.")
     return wrapper
 
 @my_decorator
 def say_hello():
-    print("Hello!")
+    print("Olá!")
 
 say_hello()
 ```

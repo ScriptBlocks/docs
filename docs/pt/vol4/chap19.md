@@ -1,19 +1,19 @@
-# Chapter 19: Polymorphism
+# Capítulo 19: Polimorfismo
 
-Polymorphism allows objects of different classes to be treated as objects of a common super class.
+O polimorfismo permite que objetos de diferentes classes sejam tratados como objetos de uma superclasse comum.
 
-## Example
+## Exemplo
 
 ```python
 class Cat:
     def speak(self):
-        return "Meow"
+        return "Miau"
 
 class Dog:
     def speak(self):
-        return "Woof"
+        return "Au Au"
 
-animals = [Cat(), Dog()]
-for animal in animals:
+animais = [Cat(), Dog()]
+for animal in animais:
     print(animal.speak())
 ```

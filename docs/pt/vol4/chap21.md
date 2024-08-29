@@ -1,8 +1,8 @@
-# Chapter 21: Introduction to Recursion
+# Capítulo 21: Introdução à Recursão
 
-Recursion occurs when a function calls itself.
+A recursão ocorre quando uma função chama a si mesma.
 
-## Example
+## Exemplo
 
 ```python
 def factorial(n):
@@ -11,5 +11,5 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-print(factorial(5))  # Outputs: 120
+print(factorial(5))  # Saída: 120
 ```
