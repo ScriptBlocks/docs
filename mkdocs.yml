@@ -1,1 +1,122 @@
 site_name: ScriptBlocks
+
+plugins:
+  - i18n:
+      docs_structure: folder
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          nav_translations:
+            Introduction: Accueil
+            Volume 1 - Getting Started: Tome 1 – Premiers pas
+            Volume 2 - Using the Interface: Tome 2 - Utilisation de l'interface
+            Volume 3 - Building your first app: Tome 3 – Construire votre première application
+            Volume 4 - Learning Python: Tome 4 – Apprendre Python
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - toc.integrate
+    - toc.follow
+    - toc.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.next
+    - navigation.previous
+    - navigation.sidebar
+
+nav:
+  - Introduction: index.md
+  - Volume 1 - Getting Started:
+    - Creating your first app: vol1/chap1.md
+    - Object Management: vol1/chap2.md
+  - Volume 2 - Using the Interface:
+    - The ScriptBlocks Workspace: vol2/chap1.md
+    - The Replit Shell: vol2/chap2.md
+    - Working with Files: vol2/chap3.md
+  - Volume 3 - Building your first app:
+    - Project Setup: vol3/chap1.md
+    - Adding UI Elements: vol3/chap2.md
+    - Adding Logic: vol3/chap3.md
+    - Deploying your app: vol3/chap4.md
+  - Volume 4 - Learning Python:
+    - Python for Beginners: vol4/chap1.md
+    - Hello World: vol4/chap2.md
+    - Data Types: vol4/chap3.md
+    - Variables: vol4/chap4.md
+    - Functions: vol4/chap5.md
+    - If Statements: vol4/chap6.md
+    - Loops: vol4/chap7.md
+    - Lists and Tuples: vol4/chap8.md
+    - Dictionaries: vol4/chap9.md
+    - Sets: vol4/chap10.md
+    - String Manipulation: vol4/chap11.md
+    - Input and Output: vol4/chap12.md
+    - Error and Exception Handling: vol4/chap13.md
+    - Working with Files: vol4/chap14.md
+    - List Comprehensions: vol4/chap15.md
+    - Introduction to Modules: vol4/chap16.md
+    - Classes and Objects: vol4/chap17.md
+    - Inheritance: vol4/chap18.md
+    - Polymorphism: vol4/chap19.md
+    - Encapsulation: vol4/chap20.md
+    - Introduction to Recursion: vol4/chap21.md
+    - Lambda Functions: vol4/chap22.md
+    - Decorators: vol4/chap23.md
+    - Generators: vol4/chap24.md
+    - Working with JSON: vol4/chap25.md
+    - Regular Expressions: vol4/chap26.md
+    - Working with Dates and Time: vol4/chap27.md
+    - Introduction to Virtual Environments: vol4/chap28.md
+    - Introduction to Web Scraping: vol4/chap29.md
+    - Introduction to Unit Testing: vol4/chap30.md
+    - Conclusion and Next Steps: vol4/chap31.md
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      auto_title: true
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.emoji
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ScriptBlocks/ScriptBlocks
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/scriptblocks
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/OmgRod
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/ScriptBlocks/
