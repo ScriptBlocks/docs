@@ -35,6 +35,8 @@ docs/
 
 ### How to Contribute
 
+Feel free to contribute to our project if you would like to add more chapters, extend them, or if there are any mistranslations or inconsistencies. Here are the steps to contribute:
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ScriptBlocks/docs.git
