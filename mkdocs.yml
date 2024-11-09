@@ -194,8 +194,7 @@ nav:
     - Object Management: vol1/chap2.md
   - Volume 2 - Using the Interface:
     - The ScriptBlocks Workspace: vol2/chap1.md
-    - The Replit Shell: vol2/chap2.md
-    - Working with Files: vol2/chap3.md
+    - Working with Files: vol2/chap2.md
   - Volume 3 - Building your first app:
     - Project Setup: vol3/chap1.md
     - Adding UI Elements: vol3/chap2.md
